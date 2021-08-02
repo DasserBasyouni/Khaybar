@@ -8,13 +8,6 @@ As always, right click the skin and press 'Settings...' to change the settings. 
 
 I don't usually make skins this big, so please report any issues you might encounter :)
 
-## Change log
-### 2021-07-27
-* Fixed the offset of the first module if 'Module01' was left empty (in which case the first would be Module02 or 03, etc).
-* Greatly reduced the amount of errors reported by Rainmeter.
-* Changed the display of the currently displayed month in the Time module to be a full length month instead of a number.
-* Added a 'free floating' mode, which will allow you to place the skin anywhere without using the Alignment and Padding options. I do not recommend using this however.
-
 ## Credits
 * [thjrulz](https://github.com/tjhrulz/WebNowPlaying) for the WebNowPlaying plugin and [khanhas](https://github.com/khanhas/spicetify-cli) for his amazing work with spicetify-cli.
 * [jsmorley](https://forum.rainmeter.net/viewtopic.php?t=28720) for the ConfigActive plugin.

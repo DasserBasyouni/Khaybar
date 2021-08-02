@@ -1,6 +1,6 @@
 # Khaybar
 
-![Preview of Khaybar](/Preview.jpg)
+![Preview](/Preview.jpg)
 
 I wanted to make something that could do everything I wanted it to without taking up my entire desktop, and I was quite inspired by the top bar in Elementary OS. So this is what I did. This 'top bar' is NOT a replacement for the taskbar or any other Windows functionality. Unfortunately, you really do need the latest version of Rainmeter for this skin.
 
